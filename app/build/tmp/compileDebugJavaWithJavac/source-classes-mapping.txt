@@ -1,0 +1,59 @@
+com/android/testapp/base/BaseApplication_MembersInjector.java
+ com.android.testapp.base.BaseApplication_MembersInjector
+com/android/testapp/di/module/ApplicationModule_Companion_ProvideRetrofitServiceFactory.java
+ com.android.testapp.di.module.ApplicationModule_Companion_ProvideRetrofitServiceFactory
+com/android/testapp/viewmodel/HomeViewModel_Factory.java
+ com.android.testapp.viewmodel.HomeViewModel_Factory
+com/android/testapp/DataBindingTriggerClass.java
+ com.android.testapp.DataBindingTriggerClass
+com/android/testapp/di/module/ApplicationModule_ProvideRetrofitServiceFactory.java
+ com.android.testapp.di.module.ApplicationModule_ProvideRetrofitServiceFactory
+com/android/testapp/BR.java
+ com.android.testapp.BR
+com/android/testapp/DataBinderMapperImpl.java
+ com.android.testapp.DataBinderMapperImpl
+ com.android.testapp.DataBinderMapperImpl$InnerBrLookup
+ com.android.testapp.DataBinderMapperImpl$InnerLayoutIdLookup
+com/android/testapp/di/module/ApplicationModule_Companion_ProvideRetrofitFactory.java
+ com.android.testapp.di.module.ApplicationModule_Companion_ProvideRetrofitFactory
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+com/android/testapp/data/repository/DataRepository_Factory.java
+ com.android.testapp.data.repository.DataRepository_Factory
+com/android/testapp/di/module/fragment/MainFragmentBindingModule_ProvideHomeFragment.java
+ com.android.testapp.di.module.fragment.MainFragmentBindingModule_ProvideHomeFragment
+ com.android.testapp.di.module.fragment.MainFragmentBindingModule_ProvideHomeFragment$HomeFragmentSubcomponent
+ com.android.testapp.di.module.fragment.MainFragmentBindingModule_ProvideHomeFragment$HomeFragmentSubcomponent$Builder
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+com/android/testapp/ui/main/MainActivity_MembersInjector.java
+ com.android.testapp.ui.main.MainActivity_MembersInjector
+com/android/testapp/di/module/ApplicationModule_ProvideRetrofitFactory.java
+ com.android.testapp.di.module.ApplicationModule_ProvideRetrofitFactory
+com/android/testapp/ui/home/HomeFragment_MembersInjector.java
+ com.android.testapp.ui.home.HomeFragment_MembersInjector
+com/android/testapp/di/DaggerApplicationComponent.java
+ com.android.testapp.di.DaggerApplicationComponent
+ com.android.testapp.di.DaggerApplicationComponent$1
+ com.android.testapp.di.DaggerApplicationComponent$Builder
+ com.android.testapp.di.DaggerApplicationComponent$MainActivitySubcomponentBuilder
+ com.android.testapp.di.DaggerApplicationComponent$MainActivitySubcomponentImpl
+ com.android.testapp.di.DaggerApplicationComponent$MainActivitySubcomponentImpl$1
+ com.android.testapp.di.DaggerApplicationComponent$MainActivitySubcomponentImpl$HomeFragmentSubcomponentBuilder
+ com.android.testapp.di.DaggerApplicationComponent$MainActivitySubcomponentImpl$HomeFragmentSubcomponentImpl
+com/android/testapp/base/BaseFragment_MembersInjector.java
+ com.android.testapp.base.BaseFragment_MembersInjector
+com/android/testapp/BuildConfig.java
+ com.android.testapp.BuildConfig
+com/android/testapp/di/util/ViewModelFactory_Factory.java
+ com.android.testapp.di.util.ViewModelFactory_Factory
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
+com/android/testapp/di/module/ActivityBindingModule_BindMainActivity.java
+ com.android.testapp.di.module.ActivityBindingModule_BindMainActivity
+ com.android.testapp.di.module.ActivityBindingModule_BindMainActivity$MainActivitySubcomponent
+ com.android.testapp.di.module.ActivityBindingModule_BindMainActivity$MainActivitySubcomponent$Builder
+com/android/testapp/viewmodel/MainViewModel_Factory.java
+ com.android.testapp.viewmodel.MainViewModel_Factory
+com/android/testapp/base/BaseActivity_MembersInjector.java
+ com.android.testapp.base.BaseActivity_MembersInjector

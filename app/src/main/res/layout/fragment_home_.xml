@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white">
+
+    <LinearLayout
+            xmlns:tools="http://schemas.android.com/tools"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/llBt"
+            android:orientation="horizontal"
+            >
+
+        <EditText
+                android:id="@+id/etInput"
+                android:layout_width="wrap_content"
+                android:minWidth="100dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content" />
+
+        <Button
+                android:id="@+id/btSearch"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Search" />
+
+        <Button
+                android:id="@+id/btReset"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Reset" />
+    </LinearLayout>
+    <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rvArticles"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/llBt"
+            android:layout_marginTop="10dp"
+            android:background="@color/greyPrimaryLightest" />
+
+</RelativeLayout>

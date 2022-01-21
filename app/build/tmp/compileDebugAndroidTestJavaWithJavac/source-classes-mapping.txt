@@ -1,0 +1,2 @@
+com/android/testapp/test/BuildConfig.java
+ com.android.testapp.test.BuildConfig
